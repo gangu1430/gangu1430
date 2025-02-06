@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @gangu1430
-- 👀 I’m interested in Loving girls ,maintaing Aunties
-- 🌱 I’m currently learning How to Esacpe from uncle after mating with aunty
-- 💞️ I’m looking to collaborate on Xnxx
-- 📫 How to reach me At Any streets
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am Gavvala Gangu
+- 👀 I’m interested in to Develop web applications
+- 🌱 I’m currently learning How to Django
+- 💞️ I’m looking to collaborate on Python Based projects
+- 📫 How to reach putturgnaga@gmail.com
+
 
 ![Full Stack Developer](https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ)
 <h1 align="center">Hi 👋, I'm Putturu Ganga Reddy</h1>
-<h3 align="center">A Profession  Python Hacker from India</h3>
+<h3 align="center">A Profession  Python Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -83,7 +82,6 @@
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
-  <h3>I am looking For Aunties Connections </h3>
 </p>
 <!---
 gangu1430/gangu1430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
