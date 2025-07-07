@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gangu1430
+- 👋 Hi, I’m @gangareddy
 - 👀 I’m interested in to Develop web applications
 - 🌱 I’m currently learning How to Django
 - 💞️ I’m looking to collaborate on Python Based projects
